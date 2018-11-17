@@ -1,0 +1,5 @@
+Please,
+
+To Test Quickly this program
+the Console will offer you to past a path.
+Copy past the path of document "Txt"
